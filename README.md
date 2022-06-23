@@ -1,2 +1,2 @@
 # Bisection
-This program to solve linear system equation with bisection method.
+This program to get root of polinomial equation with bisection method.
